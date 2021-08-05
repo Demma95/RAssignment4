@@ -1,7 +1,7 @@
 # R - Getting and Cleaning Data
 offered by Johns Hopkins University via Coursera
 
-In this assigment I have created a script called 'analysis.R' that does the following:
+In this assigment I have created a script called 'run_analysis.R.R' that does the following:
 
 1. Downloads the dataset from the following URL
    https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip

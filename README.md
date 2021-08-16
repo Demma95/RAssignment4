@@ -32,6 +32,7 @@ The Data Set and Attribute information is sourced out of http://archive.ics.uci.
       - Its activity label.
       - An identifier of the subject who carried out the experiment.
 
-CodeBook -> Describes the process to clena and tidy up the data
-run_analysis.R -> Script with the codes
-FinalData.txt -> clean and tidy up the data
+--------------
+1.CodeBook -> Describes the process to clena and tidy up the data
+2.run_analysis.R -> Script with the codes
+3.FinalData.txt -> clean and tidy up the data

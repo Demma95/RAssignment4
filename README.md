@@ -33,5 +33,5 @@ The Data Set and Attribute information is sourced out of http://archive.ics.uci.
       - An identifier of the subject who carried out the experiment.
 
 CodeBook -> Describes the process to clena and tidy up the data
-run_analysis.R - Script with the codes
-FinalData.txt - clean and tidy up the data
+run_analysis.R -> Script with the codes
+FinalData.txt -> clean and tidy up the data

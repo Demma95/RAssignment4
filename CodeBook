@@ -11,3 +11,9 @@ I create the script 'run_analysis.R' to do the following:
 6. Appropriately labels the data set with descriptive variable names. 
 7. Creates an independent tidy data set with the average of each variable for each activity and each subject.
 
+In the FinalData it is provided the mean for each activity and each subject:
+  - Triaxial acceleration from the accelerometer (total acceleration) and the estimated body acceleration.
+  - Triaxial Angular velocity from the gyroscope.
+  - A 561-feature vector with time and frequency domain variables.  
+  - Its activity label.
+  - An identifier of the subject who carried out the experiment.

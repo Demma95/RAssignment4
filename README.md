@@ -13,7 +13,9 @@ The name of the Data Set is:
 
 The Data Set and Attribute information is sourced out of http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones 
  and is the following:
-    Data Set:
+ 
+ Data Set:
+ 
       The experiments have been carried out with a group of 30 volunteers within an age bracket of 19-48 years. Each person performed six activities
       (WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING) wearing a smartphone (Samsung Galaxy S II) on the waist. Using its 
       embedded accelerometer and gyroscope, we captured 3-axial linear acceleration and 3-axial angular velocity at a constant rate of 50Hz. The 
@@ -24,8 +26,11 @@ The Data Set and Attribute information is sourced out of http://archive.ics.uci.
       using a Butterworth low-pass filter into body acceleration and gravity. The gravitational force is assumed to have only low frequency components, 
       therefore a filter with 0.3 Hz cutoff frequency was used. From each window, a vector of features was obtained by calculating variables from the 
       time and frequency domain.
-    Attribute Information:
+ 
+ Attribute Information:
+ 
       For each record in the dataset it is provided:
+ 
       - Triaxial acceleration from the accelerometer (total acceleration) and the estimated body acceleration.
       - Triaxial Angular velocity from the gyroscope.
       - A 561-feature vector with time and frequency domain variables.  
@@ -34,5 +39,7 @@ The Data Set and Attribute information is sourced out of http://archive.ics.uci.
 
 --------------
 1.CodeBook -> Describes the process to clena and tidy up the data
+
 2.run_analysis.R -> Script with the codes
+
 3.FinalData.txt -> clean and tidy up the data
